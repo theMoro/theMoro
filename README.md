@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @theMoro!
-- 🎓 PhD student in Artificial Intelligence at Johannes Kepler University Linz.
+- 🎓 PhD student at Johannes Kepler University (JKU) Linz.
 - 💼 Working at the Institute of Computational Perception.
-- 🔊 Focused on Deep Learning for Audio, specializing in Audio Tagging and Sound Event Detection.
+- 🔊 Focused on Deep Learning for Audio, specializing in Sound Event Detection and Source Separation.
 - 🔥 Passionate about training deep neural networks ;)
 
 
